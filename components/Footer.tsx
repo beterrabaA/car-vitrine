@@ -40,6 +40,10 @@ const Footer = () => {
             </div>
           ))}
         </div>
+
+        <div className='flex justify-between items-center flex-wrap mt-10'>
+
+        </div>
       </div>
     </footer>
   )
