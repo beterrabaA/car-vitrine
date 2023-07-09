@@ -1,3 +1,4 @@
+import { ReactNode } from 'react'
 import { Footer, Navbar } from '@/components'
 import './globals.css'
 
@@ -6,11 +7,7 @@ export const metadata = {
   description: 'Discorver the best cars for you.',
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt-br">
       <body className="relative">
