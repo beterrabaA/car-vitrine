@@ -26,8 +26,8 @@ Search and car rental application.
 
 ## Screenshots
 
-Pagina Inicial
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### Pagina Inicial
+![App Screenshot](/public/pagina-inicial.png)
 Lista de carros
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 Detalhes
