@@ -13,13 +13,12 @@ Search and car rental application.
 
 - Developed homepage;
 - Reusable components;
-- Worked with the Next.js server-side;
+- Worked with the Next.js;
 - External API consumption
 - Responsive 
 
 ## Learnings
 
-- Server-side
 - REST API
 - Clean code
 - Axios
