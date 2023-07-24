@@ -27,13 +27,13 @@ Search and car rental application.
 ## Screenshots
 
 ### Pagina Inicial
-![App Screenshot](/public/pagina-inicial.png)
-Lista de carros
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-Detalhes
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-Mobile
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Hero](/public/pagina-inicial.png)
+### Lista de carros
+![Cars List](/public/lista-carros.png)
+### Detalhes
+![Details Component](/public/detalhes.png)
+### Mobile
+![Mobile](/public/mobile.png)
 
 
 ## Reference
